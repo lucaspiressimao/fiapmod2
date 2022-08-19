@@ -1,0 +1,7 @@
+organization=2inlqib610yp0m3656c3icpetsa5urpmbgbz7f79
+projectKey=Fiap-rm344680
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.31186
+dashboardUrl=https://sonarcloud.io/dashboard?id=Fiap-rm344680
+ceTaskId=AYK4OXavhf0wYYkAQCDz
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYK4OXavhf0wYYkAQCDz
